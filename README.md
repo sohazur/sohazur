@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sohazur%20Islam&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling" width="100%" />
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=building+things+that+probably+shouldn't+work;but+somehow+they+do;founder+%40reachllm;shipping+fast%2C+learning+faster" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=founder+%40reachllm;full+stack+%2B+AI+agents;15%2B+hackathons+won;started+coding+at+13;the+only+sohazur+in+the+world" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -18,19 +18,19 @@
 
 <br/>
 
-I'm a founder and engineer based in **San Francisco** (previously Dubai). I like building things across AI, full-stack, quantum computing, blockchain — basically anything that sounds hard enough to be interesting. Currently running **[ReachLLM](https://reachllm.com)**, previously co-founded **[Carbon2Capital](https://carbon2capital.com)**.
+Founder and engineer in **San Francisco**. I build across AI agents, full-stack, quantum computing, blockchain. Currently CEO at **[ReachLLM](https://reachllm.com)**, previously co-founded **[Carbon2Capital](https://carbon2capital.com)** as CTO.
 
 ---
 
 ### Projects
 
-- 🤖 **[reddit-agent](https://github.com/sohazur/reddit-agent)** — Autonomous Reddit engagement agent. Browser-based + Claude API hybrid. Learns from feedback
-- 🧠 **[mneme](https://github.com/sohazur/mneme)** — AI agent with persistent memory and trust receipts — built at a hackathon
-- 🔧 **[ReachMCP](https://github.com/sohazur/ReachMCP)** — MCP server that generates interactive AI workspaces on the fly — powers ReachLLM
-- ⚛️ **[Quantictactoe](https://github.com/sohazur/Quantictactoe)** — Quantum Tic-Tac-Toe that runs on real IBM quantum hardware
-- 🎨 **[BlenderWebApp](https://github.com/sohazur/BlenderWebApp)** — 3D rendering pipeline with auto-texturing and YOLO annotations
-- 🎙️ **[sportspeak](https://github.com/sohazur/sportspeak)** — AI sports commentator: computer vision + voice-cloned commentary
-- 🌊 **[DeepDivers](https://github.com/sohazur/DeepDivers)** — UN Big Data Hackathon: predicting food prices from climate data
+- 🤖 **[reddit-agent](https://github.com/sohazur/reddit-agent)** · Autonomous Reddit engagement agent. Browser-based + Claude API hybrid. Learns from feedback
+- 🧠 **[mneme](https://github.com/sohazur/mneme)** · AI agent with persistent memory and trust receipts. Built at a hackathon
+- 🔧 **[ReachMCP](https://github.com/sohazur/ReachMCP)** · MCP server that generates interactive AI workspaces. Powers ReachLLM
+- ⚛️ **[Quantictactoe](https://github.com/sohazur/Quantictactoe)** · Quantum Tic-Tac-Toe that runs on real IBM quantum hardware
+- 🎨 **[BlenderWebApp](https://github.com/sohazur/BlenderWebApp)** · 3D rendering pipeline with auto-texturing and YOLO annotations
+- 🎙️ **[sportspeak](https://github.com/sohazur/sportspeak)** · AI sports commentator with computer vision + voice cloning
+- 🌊 **[DeepDivers](https://github.com/sohazur/DeepDivers)** · UN Big Data Hackathon. Predicting food prices from climate data
 
 ---
 
@@ -64,33 +64,31 @@ I'm a founder and engineer based in **San Francisco** (previously Dubai). I like
 
 ---
 
-<details>
-<summary><b>More about me</b></summary>
-<br/>
+### Startups
 
-**Startups**
-- **[ReachLLM](https://reachllm.com)** — CEO & Co-Founder. AI-native GEO agency — we help brands show up in AI search. Product Hunt Top 5. Antler-backed
-- **[Carbon2Capital](https://carbon2capital.com)** — Co-Founder & Ex-CTO. Carbon footprint API for banks. Hult Prize top 24 of 15,000+. Dubai SME grant recipient
+**[ReachLLM](https://reachllm.com)** · CEO & Co-Founder
+AI-native GEO agency. We help brands show up in AI search. Product Hunt Top 5. Antler-backed.
 
-**Background**
-- B.Sc. Computational Systems (AI), Zayed University — 3.99 GPA, Dean's List
-- Research at NCUR 2024 — quantum algorithms, sustainability, financial inclusion
-- Harvard CS50x certified. Algorand certified (Fundamentals, Developer, Specialist)
+**[Carbon2Capital](https://carbon2capital.com)** · Co-Founder & Ex-CTO
+Carbon footprint API for banks. Hult Prize top 24 of 15,000+. Dubai SME grant recipient.
+
+---
+
+### Background
+
+- B.Sc. Computational Systems (AI), Zayed University, 3.99 GPA, Dean's List
+- Research at NCUR 2024: quantum algorithms, sustainability, financial inclusion
+- Harvard CS50x certified · Algorand certified (Fundamentals, Developer, Specialist)
 - 15+ hackathon wins
 
-**Random**
-- Ex-professional cricketer
-- Was ranked #8 in the world in Clash of Clans
-- Traveled to 26 countries
-- The only "Sohazur" in the world — seriously, Google it
-- Started coding at 13. 🇧🇩 → 🇦🇪 → 🇺🇸
+---
 
-</details>
+### Beyond Code
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
+- 🏏 Ex-professional cricketer
+- 🎮 Ranked #8 in the world in Clash of Clans
+- 🌍 26 countries visited
+- 🧬 The only "Sohazur" in the world. Google it
+- 🇧🇩 → 🇦🇪 → 🇺🇸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
